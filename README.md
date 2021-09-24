@@ -4,12 +4,12 @@ This sub-task focused on the binary classification of such
 conversational tweets with tree-structured data into:
 <br>
 • (NOT) Non Hate-Offensive This tweet, comment, or reply does not contain any Hate
-speech, profane, offensive content.
+speech, profane, offensive content.<br>
 • (HOF) Hate and Offensive This tweet, comment, or reply contains Hate, offensive, and
 profane content in itself or supports hate expressed in the parent tweet.
 <br>
-The solution presented int the following is part of HASOC_2021 Shared task 1A:
-• ```dataset.ipynb```: ipython notebook for data preprocessing
-• ```Tf_if_MachineLearning.ipynb```: tf-idf plus machine learning algorithms implementation
-• ```gloveVectorML.ipynb```: glove embeddings plus machine learning algorithms implementation
+The solution presented int the following is part of HASOC_2021 Shared task 1A:<br>
+• ```dataset.ipynb```: ipython notebook for data preprocessing<br>
+• ```Tf_if_MachineLearning.ipynb```: tf-idf plus machine learning algorithms implementation<br>
+• ```gloveVectorML.ipynb```: glove embeddings plus machine learning algorithms implementation<br>
 • ```FineTuningTransformers.ipynb```: generalised finetuning for pretrained transformers models   
