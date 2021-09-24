@@ -3,10 +3,10 @@ The prevalence of hate speech and other offensive and undesirable information on
 This sub-task focused on the binary classification of such
 conversational tweets with tree-structured data into:
 <br>
-### (NOT) Non Hate-Offensive : 
+###### (NOT) Non Hate-Offensive : 
 This tweet, comment, or reply does not contain any Hate
 speech, profane, offensive content.<br>
-### (HOF) Hate and Offensive : 
+###### (HOF) Hate and Offensive : 
 This tweet, comment, or reply contains Hate, offensive, and
 profane content in itself or supports hate expressed in the parent tweet.
 <br>
