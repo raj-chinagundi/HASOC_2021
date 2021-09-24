@@ -9,6 +9,7 @@ speech, profane, offensive content.<br>
 *(HOF) Hate and Offensive*: This tweet, comment, or reply contains Hate, offensive, and
 profane content in itself or supports hate expressed in the parent tweet.
 <br>
+<br>
 The solution presented int the following is part of HASOC_2021 Shared task 1A:<br>
 • ```dataset.ipynb```: ipython notebook for data preprocessing<br>
 • ```Tf_if_MachineLearning.ipynb```: tf-idf plus machine learning algorithms implementation<br>
