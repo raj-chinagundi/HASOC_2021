@@ -17,4 +17,4 @@ The solution presented int the following is part of HASOC_2021 Shared task 1A:<b
 • ```FineTuningTransformers.ipynb```: generalised finetuning for pretrained transformers models   
  
  ### ARCHITECTURE DIAGRAM
- 
+ ![example](https://github.com/basavraj-chinagundi/HASOC_2021/blob/main/architecture.jpg)
