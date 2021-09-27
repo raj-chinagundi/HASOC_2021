@@ -15,3 +15,6 @@ The solution presented int the following is part of HASOC_2021 Shared task 1A:<b
 • ```Tf_if_MachineLearning.ipynb```: tf-idf plus machine learning algorithms implementation<br>
 • ```gloveVectorML.ipynb```: glove embeddings plus machine learning algorithms implementation<br>
 • ```FineTuningTransformers.ipynb```: generalised finetuning for pretrained transformers models   
+ 
+ ### ARCHITECTURE DIAGRAM
+ 
