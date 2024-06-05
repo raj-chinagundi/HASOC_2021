@@ -16,19 +16,19 @@ The goal is to classify tweets into one of two categories:
 
 ### Solution Overview
 
-The solution presented is part of the HASOC_2021 Shared Task 1A, and it involves several key components, each encapsulated in an IPython notebook:
+The solution presented is part of the HASOC_2021 Shared Task 1A, and it involves several key components, which are as follows:
 
 1. **dataset.ipynb**: 
    - This notebook handles data preprocessing. It cleans and prepares the dataset for analysis by removing noise and irrelevant information, ensuring the data is ready for subsequent modeling steps.
 
 2. **Tf_idf_MachineLearning.ipynb**:
-   - This notebook implements TF-IDF (Term Frequency-Inverse Document Frequency) combined with various machine learning algorithms. TF-IDF transforms the text data into numerical features based on the importance of words, which are then used by machine learning models to classify the tweets.
+   - This notebook implements TF-IDF (Term Frequency-Inverse Document Frequency) combined with various machine learning algorithms. 
 
 3. **gloveVectorML.ipynb**:
-   - This notebook leverages GloVe (Global Vectors for Word Representation) embeddings combined with machine learning algorithms. GloVe provides a way to represent words in a continuous vector space where similar words have similar vectors, enhancing the model's ability to understand context and semantics.
+   - This notebook leverages GloVe (Global Vectors for Word Representation) embeddings combined with machine learning algorithms. 
 
 4. **FineTuningTransformers.ipynb**:
-   - This notebook focuses on fine-tuning pre-trained transformer models. Transformers, such as BERT or GPT, have revolutionized natural language processing by allowing for advanced contextual understanding and nuanced text classification.
+   - This notebook focuses on fine-tuning pre-trained transformer models.
 
 By combining these approaches, the solution aims to create a robust system for automatically detecting and classifying hate speech and offensive content on social media platforms.
  
